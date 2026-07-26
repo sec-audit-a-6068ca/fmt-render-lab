@@ -1,0 +1,28 @@
+{
+ "type": "Topology",
+ "objects": {
+  "<img src=x onerror='window.T01=1'>CANARY-T01": {
+   "type": "GeometryCollection",
+   "geometries": [
+    {
+     "type": "Point",
+     "coordinates": [
+      0,
+      0
+     ],
+     "properties": {
+      "name": "<img src=x onerror='window.T02=1'>CANARY-T02",
+      "description": "<script>window.T03=1</script>CANARY-T03"
+     }
+    }
+   ]
+  }
+ },
+ "arcs": [],
+ "bbox": [
+  0,
+  0,
+  1,
+  1
+ ]
+}
