@@ -1,0 +1,66 @@
+{
+ "version": 8,
+ "name": "<img src=x onerror='window.MB1=1'>CANARY-MB1",
+ "sources": {
+  "s": {
+   "type": "geojson",
+   "data": {
+    "type": "FeatureCollection",
+    "features": [
+     {
+      "type": "Feature",
+      "id": "<img src=x onerror='window.G00=1'>CANARY-G00",
+      "properties": {
+       "name": "<img src=x onerror=\"window.G01=1\">CANARY-G01",
+       "description": "<script>window.G02=1</script>CANARY-G02",
+       "popupContent": "<svg onload='window.G03=1'></svg>CANARY-G03",
+       "<img src=x onerror='window.G04=1'>CANARY-G04": "keyinjection",
+       "marker-symbol": "<img src=x onerror='window.G05=1'>",
+       "marker-color": "\"><img src=x onerror='window.G06=1'>",
+       "title": "<a href='javascript:window.G07=1'>CANARY-G07</a>",
+       "html": "<iframe srcdoc='&lt;script&gt;parent.G08=1&lt;/script&gt;'></iframe>CANARY-G08",
+       "url": "javascript:window.G09=1",
+       "image": "x' onerror='window.G10=1"
+      },
+      "geometry": {
+       "type": "Point",
+       "coordinates": [
+        -77.03,
+        38.89
+       ]
+      }
+     },
+     {
+      "type": "Feature",
+      "properties": {
+       "stroke": "\"><img src=x onerror='window.G11=1'>",
+       "fill": "javascript:window.G12=1",
+       "stroke-width": "1\" onclick=\"window.G13=1",
+       "CANARY-G14": "<img src=x onerror='window.G14=1'>"
+      },
+      "geometry": {
+       "type": "LineString",
+       "coordinates": [
+        [
+         -77.0,
+         38.8
+        ],
+        [
+         -77.1,
+         38.9
+        ]
+       ]
+      }
+     }
+    ]
+   }
+  }
+ },
+ "layers": [
+  {
+   "id": "<img src=x onerror='window.MB2=1'>CANARY-MB2",
+   "type": "circle",
+   "source": "s"
+  }
+ ]
+}
