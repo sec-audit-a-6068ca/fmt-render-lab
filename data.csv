@@ -1,0 +1,15 @@
+col_a,col_b,"<img src=x onerror='window.CSV_HDR=1'>CANARY-CSVHDR"
+<img src=x onerror="window.CSV01=1">CANARY-CSV01,plain,x
+<script>window.CSV02=1</script>CANARY-CSV02,plain,x
+"=cmd|' /C calc'!A0",CANARY-CSV03-FORMULA,x
+=HYPERLINK("https://example.org/CANARY-CSV04","clickme"),b,c
++1+1,CANARY-CSV05,x
+-1+1,CANARY-CSV06,x
+@SUM(1+1),CANARY-CSV07,x
+"=WEBSERVICE(""https://example.org/CSV08"")",CANARY-CSV08,x
+"multi
+line
+<img src=x onerror='window.CSV09=1'>CANARY-CSV09",b,c
+"un""balanced <svg onload=window.CSV10=1>CANARY-CSV10,b,c
+javascript:window.CSV11=1,CANARY-CSV11,x
+https://example.org/"><img src=x onerror=window.CSV12=1>,CANARY-CSV12,x
